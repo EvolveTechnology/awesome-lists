@@ -10,6 +10,7 @@ Curated list of useful resources for software development.
 - [Rust](#rust)
 - [Software](#software)
 - [TypeScript](#typescript)
+- [AWS](#aws)
 
 ## <a id="javascript"></a>JavaScript
 
@@ -68,3 +69,7 @@ Curated list of useful resources for software development.
 - [useTypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 
 - [Zero-config CLI for TypeScript package development](https://github.com/palmerhq/tsdx)
+
+## <a id="aws"></a>AWS
+- [AWS VPC for Beginners](https://medium.com/datadriveninvestor/aws-vpc-for-beginners-eee01e7083d1)
+- [Setting up your Website with AWS S3, Route53 & CloudFront](https://medium.com/@christian_7682/setting-up-your-website-with-aws-s3-route53-cloudfront-6d203aa35e5f)
