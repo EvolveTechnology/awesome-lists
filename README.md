@@ -10,6 +10,8 @@ Curated list of useful resources for software development.
 - [Rust](#rust)
 - [Software](#software)
 - [TypeScript](#typescript)
+- [AWS](#aws)
+- [Node.js](#nodejs)
 
 ## <a id="javascript"></a>JavaScript
 
@@ -39,7 +41,9 @@ Curated list of useful resources for software development.
 
 - [Things I don't know](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
-* [Private routes with react router dom](https://medium.com/@tomlarge/private-routes-with-react-router-dom-28e9f40c7146)
+- [Private routes with react router dom](https://medium.com/@tomlarge/private-routes-with-react-router-dom-28e9f40c7146)
+
+- [React Hooks: Why We should Embrace it](https://medium.com/@jackyef/react-hooks-why-we-should-embrace-it-86e408663ad6)
 
 ## <a id="rust"></a>Rust
 
@@ -68,3 +72,11 @@ Curated list of useful resources for software development.
 - [useTypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 
 - [Zero-config CLI for TypeScript package development](https://github.com/palmerhq/tsdx)
+
+## <a id="aws"></a>AWS
+- [AWS VPC for Beginners](https://medium.com/datadriveninvestor/aws-vpc-for-beginners-eee01e7083d1)
+- [Setting up your Website with AWS S3, Route53 & CloudFront](https://medium.com/@christian_7682/setting-up-your-website-with-aws-s3-route53-cloudfront-6d203aa35e5f)
+
+## <a id="nodejs"></a>Node.js
+
+- [Authentication using Amazon Cognito and Node.js](https://medium.com/@janitha000/authentication-using-amazon-cognito-and-nodejs-c4485679eed8)
