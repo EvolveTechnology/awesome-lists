@@ -53,6 +53,8 @@ Curated list of useful resources for software development.
 
 - [RipGrep](https://github.com/BurntSushi/ripgrep)
 
+- [fzf](https://github.com/junegunn/fzf)
+
 - [Software clones](https://www.reddit.com/r/rust/comments/cysvjh/what_are_some_amazing_softwaresoftware_clones/)
 
 ## <a id="typescript"></a>TypeScript
