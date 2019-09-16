@@ -33,6 +33,8 @@ Curated list of useful resources for software development.
 
 - [Elements of UI engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 
+- [Essential React Hooks Design Patterns](https://itnext.io/essential-react-hooks-design-patterns-a04309cc0404)
+
 - [Fix the slow render before you fix the re-render](https://kentcdodds.com/blog/fix-the-slow-render-before-you-fix-the-re-render)
 
 - [How React Hooks can replace react router](https://blog.logrocket.com/how-react-hooks-can-replace-react-router/)
@@ -41,9 +43,9 @@ Curated list of useful resources for software development.
 
 - [Things I don't know](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
-- [Private routes with react router dom](https://medium.com/@tomlarge/private-routes-with-react-router-dom-28e9f40c7146)
+- [Programming Patterns with React Hooks](https://medium.com/javascript-in-plain-english/programming-patterns-with-react-hooks-329c22b96461)
 
-- [React Hooks: Why We should Embrace it](https://medium.com/@jackyef/react-hooks-why-we-should-embrace-it-86e408663ad6)
+- [Private routes with react router dom](https://medium.com/@tomlarge/private-routes-with-react-router-dom-28e9f40c7146)
 
 ## <a id="rust"></a>Rust
 
