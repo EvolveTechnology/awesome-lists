@@ -41,6 +41,8 @@ Curated list of useful resources for software development.
 
 - [Introducing React Hooks](https://itnext.io/introducing-redux-hooks-1bf9c568ecc2)
 
+- [React Hooks: Inverting container/presenter](https://itnext.io/react-hooks-inverting-container-presenter-5758a1dfdaa)
+
 - [Things I don't know](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
 - [Programming Patterns with React Hooks](https://medium.com/javascript-in-plain-english/programming-patterns-with-react-hooks-329c22b96461)
