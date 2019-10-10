@@ -36,7 +36,7 @@ Security comes first 🥇👩‍💻👨‍💻
 
 - [When to use web workers](https://dassur.ma/things/when-workers/)
 
-- [Ransomware study with JS](https://www.youtube.com/watch?v=Piz40rRiEPY)
+- Video: [Ransomware study with JS](https://www.youtube.com/watch?v=Piz40rRiEPY)
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
