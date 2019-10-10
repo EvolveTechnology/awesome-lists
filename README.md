@@ -19,12 +19,15 @@ Curated list of useful resources for software development.
 Security comes first 🥇👩‍💻👨‍💻
 
 - [Code Quality and Security](https://www.sonarqube.org/)
+
 - [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist#security)
+
 - [The Secure Developer](https://www.thesecuredeveloper.com/)
 
 ## <a id="aws"></a>AWS
 
 - [AWS VPC for Beginners](https://medium.com/datadriveninvestor/aws-vpc-for-beginners-eee01e7083d1)
+
 - [Setting up your Website with AWS S3, Route53 & CloudFront](https://medium.com/@christian_7682/setting-up-your-website-with-aws-s3-route53-cloudfront-6d203aa35e5f)
 
 ## <a id="javascript"></a>JavaScript
