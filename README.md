@@ -4,14 +4,28 @@ Curated list of useful resources for software development.
 
 ## Index
 
+- [Security](#security)
+- [AWS](#aws)
 - [JavaScript](#javascript)
 - [JWTs](#jwt)
+- [Node.js](#nodejs)
 - [React](#react)
 - [Rust](#rust)
 - [Software](#software)
 - [TypeScript](#typescript)
-- [AWS](#aws)
-- [Node.js](#nodejs)
+
+## <a id="security"></a>Security
+
+Security comes first 🥇👩‍💻👨‍💻
+
+- [Code Quality and Security](https://www.sonarqube.org/)
+- [Front End Checklist](https://github.com/thedaviddias/Front-End-Checklist#security)
+- [The Secure Developer](https://www.thesecuredeveloper.com/)
+
+## <a id="aws"></a>AWS
+
+- [AWS VPC for Beginners](https://medium.com/datadriveninvestor/aws-vpc-for-beginners-eee01e7083d1)
+- [Setting up your Website with AWS S3, Route53 & CloudFront](https://medium.com/@christian_7682/setting-up-your-website-with-aws-s3-route53-cloudfront-6d203aa35e5f)
 
 ## <a id="javascript"></a>JavaScript
 
@@ -24,6 +38,10 @@ Curated list of useful resources for software development.
 ## <a id="jwt"></a>JWT
 
 - [Handling JWTs on frontend clients](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
+
+## <a id="nodejs"></a>Node.js
+
+- [Authentication using Amazon Cognito and Node.js](https://medium.com/@janitha000/authentication-using-amazon-cognito-and-nodejs-c4485679eed8)
 
 ## <a id="react"></a>React
 
@@ -76,11 +94,3 @@ Curated list of useful resources for software development.
 - [useTypeScript](https://levelup.gitconnected.com/usetypescript-a-complete-guide-to-react-hooks-and-typescript-db1858d1fb9c)
 
 - [Zero-config CLI for TypeScript package development](https://github.com/palmerhq/tsdx)
-
-## <a id="aws"></a>AWS
-- [AWS VPC for Beginners](https://medium.com/datadriveninvestor/aws-vpc-for-beginners-eee01e7083d1)
-- [Setting up your Website with AWS S3, Route53 & CloudFront](https://medium.com/@christian_7682/setting-up-your-website-with-aws-s3-route53-cloudfront-6d203aa35e5f)
-
-## <a id="nodejs"></a>Node.js
-
-- [Authentication using Amazon Cognito and Node.js](https://medium.com/@janitha000/authentication-using-amazon-cognito-and-nodejs-c4485679eed8)
