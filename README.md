@@ -40,6 +40,8 @@ Security comes first 🥇👩‍💻👨‍💻
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+- [Structure and Interpretation of Computer Programs - JS Adaption](https://sicp.comp.nus.edu.sg/index.html)
+
 ## <a id="jwt"></a>JWT
 
 - [Handling JWTs on frontend clients](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
@@ -71,6 +73,8 @@ Security comes first 🥇👩‍💻👨‍💻
 - [Programming Patterns with React Hooks](https://medium.com/javascript-in-plain-english/programming-patterns-with-react-hooks-329c22b96461)
 
 - [Private routes with react router dom](https://medium.com/@tomlarge/private-routes-with-react-router-dom-28e9f40c7146)
+
+- [Do Not Call React Function Components](https://kentcdodds.com/blog/dont-call-a-react-function-component)
 
 ## <a id="rust"></a>Rust
 
